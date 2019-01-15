@@ -1,0 +1,7 @@
+{
+    "name": "lenovo/php_intro",
+    "type": "project",
+    "license": "\"MIT\"",
+    "minimum-stability": "dev",
+    "require": {}
+}
